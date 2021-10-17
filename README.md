@@ -16,7 +16,6 @@
 </a></li><li><a target="_blank" href="https://www.aymandamoun.com/projects/smart-factory/">Design of a cyber physical production cell
 </a></li>
 </details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25" />
