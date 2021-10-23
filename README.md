@@ -31,6 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="25" height="25" />
 <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" alt="Gazebo" width="25" height="25" />
 <img src="https://answers.ros.org/upfiles/14554624266871161.png" alt="ros" width="25" height="25" />
+<img src="    https://fr.wikipedia.org/wiki/OpenCV#/media/Fichier:OpenCV_Logo_with_text.png" alt="ros" width="25" height="25" />
 </p>
 
 
